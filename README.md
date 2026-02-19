@@ -20,6 +20,10 @@ toggle hidden/dot files: h key
 about: a key
 quit: q key
 
+---
+![App Screenshot](screen.png)
+---
+
 ## DEV
 developed by msb
 
