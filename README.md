@@ -14,10 +14,15 @@ make
 
 ## HOWTO
 move: Up and Down arrows
+
 open/cd: Enter
+
 back: Backspace
+
 toggle hidden/dot files: h key
+
 about: a key
+
 quit: q key
 
 ---
