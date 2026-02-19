@@ -1,6 +1,6 @@
 # DirView
 
-## NAME
+## dirview
 dirview - a minimal directory viewer written in C
 
 ## CONFIG
